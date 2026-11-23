@@ -1,6 +1,14 @@
-# Laboratório Personas LLM
+# Laboratório de personas com LLMs locais
 
 Simulador de debate e conversa casual com personas configuráveis: qualquer LLM do **LM Studio** pode ser debatedor, com **Perfis** (personalidade) e **Skills** editáveis na interface.
+
+**Primeira experiência.** Abra `Abrir Laboratorio Personas LLM.app`. Configure dois participantes com perspectivas diferentes, escolha o modo de debate e acompanhe a troca de argumentos por turnos.
+
+**Arquivos de referência**
+
+- [docs/SISTEMA.md](docs/SISTEMA.md)
+- [docs/DEBATE_RULES.md](docs/DEBATE_RULES.md)
+- [config.yaml](config.yaml)
 
 ## Início rápido (duplo clique)
 
